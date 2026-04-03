@@ -1,15 +1,10 @@
-# Hi, I'm Paul Allen
+# Hi there, I'm Paul 👋
 
-## About Me
-- I’m currently studying Information Technology and Web Science at Rensselaer Polytechnic Institute
-- I’m interested in Data Science, Computer Science, Software Engineering, and much more!
-- I’m currently learning JavaScript and React.js
-- Fun fact: I have been playing Piano and the Clarinet for almost a decade! 
+## 🚀 About Me
+I am currently a freshman undergraduate student at Rensselaer Polytechnic Institute studying Information Technology and Web Science. I'm interested in Data Science, Computer Science, Web Development, Software Engineering, Artificial Intelligence, and Machine Learning. I enjoy building things that push my understanding as well as my creativity.
 
-## Technical Skills
-- Programming languages: Python, Java, C#
-- Tools: Git, VS Code, Unity Engine, Claude Code
+## 🎯 Current Projects
+- Building Tic Tac Toe using JavaScript and React.js
+- Personal Website
 
-## Current Projects
-- Building a Tic Tac Toe game using JavaScript and React
-- Personal website
+
