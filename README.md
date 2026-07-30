@@ -6,17 +6,17 @@
         ...::...                                       -::.::::.           EDUCATION ---------------------------------------
        ........                                        .:::::..            - Bachelors of Science in ITWS & CS
      ....::::::                                         .:::.              - RPI Schools of Science & Management
-     ..:::::::-                      *.                  ...               - Data Structures, Calculus II, Web Dev.
+     ..:::::::-                      *.                  ...               - Data Structures, Calculus II, Web Development
     ..:::-:::::                    @@@@@#==+=           ...                
     ....:::..                +%%#+.  =@@@.              ....               TECHNICAL----------------------------------------
-          . .               *=    :.:+@@=    .:                            - Languages: Python, Java, HTML, CSS, Javascript
-                          -#@@@####%@@@@=:- #           .                  - Libraries: NumPy, pandas, beautifulsoup  
-                         =%@@@@@@@@@@@@@@%@@@@%       ......               - IDEs: vscode, Eclipse, Pycharm, Google Colab
-                          +@@@@@@@@%%%%@@+%@@@%     .-::::::...     .      - Tools: Gemini, Claude Code,
-  .                  .*-  -#@@@@@@@@=+=-  +@@@+    :++====----::. ..     
-       . ..   ..      ##  :+%@@@@@@@@@%#+=+%@#    -*******+++=-:::...      
-        .....:--:         :=*%@@##*=++-:.  *#:   -+#####****++=-:::::    
-    ......:.::-=+=.        :=+#@@%@%#*++++**-   :*#######*****+=-::::    
+          . .               *=    :.:+@@=    .:                            - Languages: Python, Java, HTML, CSS, Javascript,
+                          -#@@@####%@@@@=:- #           .                    C++, SQL (postgres)
+                         =%@@@@@@@@@@@@@@%@@@@%       ......               - Libraries: NumPy, pandas, beautifulsoup,  
+                          +@@@@@@@@%%%%@@+%@@@%     .-::::::...     .        matplotlib 
+  .                  .*-  -#@@@@@@@@=+=-  +@@@+    :++====----::. ..       - IDEs: VSCode, Eclipse, Pycharm, Google Colab,
+       . ..   ..      ##  :+%@@@@@@@@@%#+=+%@#    -*******+++=-:::...        Jupyter Notebook
+        .....:--:         :=*%@@##*=++-:.  *#:   -+#####****++=-:::::      - Tools: Gemini, Claude Code, Codex, Git/GitHub,
+    ......:.::-=+=.        :=+#@@%@%#*++++**-   :*#######*****+=-::::        version control
     ......:.:-=++*#.         -+#%@@@@@@%%%+.   =###########***+=--:::     
     ......:::==+****#**   .    :+#@@@@@@%*. ++*##**########***+==--:.    
          .:--==+++****#= .==:      :--=-.  ########****#****+++==--:.    
