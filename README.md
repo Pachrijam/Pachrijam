@@ -25,5 +25,5 @@
        .:-=++*#%%#    @@@@@@%#*=====:     . ****#########***+==-::         - Discord: @paul.allen9456
        .-=++**#%-      @@@@@%%%*=+===     =    *######***+=-:::..          - Phone: (908)-591-0650
        .:==+*+         @@@@@@#******=:    =        .=++==-:...             - Instagram: @its.paulallen 
-       .-.              @@@@@@@%-=**+.  #%.               ..               - Linkedin: linkedin.com/in/paul-allen-a6aa14371                  
+       .-.              @@@@@@@%-=**+.  #%.               ..               - Linkedin: linkedin.com/in/paul-allen-a6aa14371
 ```
