@@ -1,6 +1,6 @@
 ```     
-                .:..:---==----=+----==-.                ..::::.             <><><><><><> Hi, I'm Paul Allen. <><><><><><>
-             .::-----==.               ...:-..:..::-=-----===-::.          
+                                                                            <><><><><><> Hi, I'm Paul Allen. <><><><><><>
+             .-==----=+----==-.                ..::::.      
             .:--====-:                         ::--=+=====----::.          Aspiring Data Scientist/AI Engineer interested
         ....::-::.                                    =+--::::..           in machine learning and software engineering.
         ...::...                                       -::.::::.           
